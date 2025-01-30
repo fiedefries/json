@@ -1,0 +1,15 @@
+{
+  "navne": {
+    "fornavn": "Emma",
+    "efternavn": "Munch"
+  },
+  "alder": 23,
+  "studerende": true,
+  "interesser": ["Design", "Kunst", "Rejser"],
+  "adresse": {
+    "vej": "Tranevej 6",
+    "by": "Køvenhavn NV",
+    "postnummer": 2400
+  },
+  "fødselsdato": "2001-07-14"
+}
