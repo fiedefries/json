@@ -1,0 +1,15 @@
+{
+  "navn": {
+    "fornavn": "Fie",
+    "efternavn": "de Fries"
+  },
+  "alder": 22,
+  "Studerende": true,
+  "interesser": ["rejse", "løbe", "krea"],
+  "adresse": {
+    "vej": "Nordre Fasanvej 186D",
+    "by": "Frederiksberg",
+    "postnummer": 2000
+  },
+  "fødselsdato": "2002-03-10"
+}
